@@ -77,15 +77,15 @@ I'm a passionate **Software Engineer** with a strong focus on **backend developm
 
 <div align="center">
   
-  ![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamnaaser45&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  ![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=eslamnaaser454&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamnaaser45&layout=compact&theme=tokyonight&hide_border=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eslamnaaser454&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=eslamnaaser45&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=eslamnaaser454&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
 </div>
 
