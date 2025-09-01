@@ -8,8 +8,8 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=eslamnaaser45&color=36BCF7&style=flat-square)
-  [![GitHub followers](https://img.shields.io/github/followers/eslamnaaser45?label=Follow&style=social)](https://github.com/eslamnaaser45)
+  ![Profile Views](https://komarev.com/ghpvc/?username=eslamnaaser454444&color=36BCF7&style=flat-square)
+  [![GitHub followers](https://img.shields.io/github/followers/eslamnaaser454444?label=Follow&style=social)](https://github.com/eslamnaaser454444)
   
 </div>
 
@@ -96,13 +96,12 @@ I'm a passionate **Software Engineer** with a strong focus on **backend developm
 
 <div align="center">
 
-[![Pet Planet Clinic Website](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser45&repo=pet-planet-clinic-website&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser45/pet-planet-clinic-website)
+[![ERP Java Project](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser454&repo=ERP-java-project&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser454/ERP-java-project)
 
-[![Problem Solving with C](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser45&repo=problem-solving-with-c&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser45/problem-solving-with-c)
+[![TruYou](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser454&repo=TruYou&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser454/TruYou)
 
-[![WE GUI for Database](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser45&repo=WE-GUI-for-Database&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser45/WE-GUI-for-Database)
+[![Pet Planet Clinic Website](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser454&repo=pet-planet-clinic-website&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser454/pet-planet-clinic-website)
 
-[![ERP Java Project](https://github-readme-stats.vercel.app/api/pin/?username=eslamnaaser45&repo=ERP-java-project&theme=tokyonight&hide_border=true)](https://github.com/eslamnaaser45/ERP-java-project)
 
 </div>
 
@@ -113,13 +112,7 @@ I'm a passionate **Software Engineer** with a strong focus on **backend developm
 - 🏆 **Competitive Programming:** Solving algorithmic challenges and participating in contests
 - 🌐 **Open Source:** Contributing to open-source projects and building useful tools
 
-## 📈 Activity Graph
 
-<div align="center">
-  
-  [![Eslam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eslamnaaser45&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
 
 ## 🤝 Let's Connect!
 
